@@ -3,8 +3,18 @@
 
 Hello there! :D
 
+A Full-Stack Software Developer  and a Competitive Programming Enthusiast  ,
 
-<h1 align="center">General Kenobi -.-</h1>
+
+✔ Android Studio, Visual Studio, VSCode XCode rocks!
+✔ Always open to learn new tech!😉
+
+
+
+
+Languages & Tools I Have Use
+
+                                 npm   npm    nestjs  reactjs  nodejs  rxjs  bootstrap  firebase  azure  jquery
 
 <!--
 **nic0las91/nic0las91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
