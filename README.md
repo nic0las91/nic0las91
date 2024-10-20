@@ -6,7 +6,7 @@ Hello there! :D
 A Full-Stack Software Developer  and a Competitive Programming Enthusiast  ,
 
 
-✔ Android Studio, Visual Studio, VSCode XCode rocks!
+✔ Visual Studio rocks!
 ✔ Always open to learn new tech!😉
 
 
