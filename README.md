@@ -14,7 +14,7 @@ A Full-Stack Software Developer  and a Competitive Programming Enthusiast  ,
 
 Languages & Tools I Have Use
 
-                                 npm   npm    nestjs  reactjs  nodejs  rxjs  bootstrap  firebase  azure  jquery
+                                c# npm   npm    nestjs  reactjs  nodejs  rxjs  bootstrap  firebase  azure  jquery
 
 <!--
 **nic0las91/nic0las91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
